@@ -5,7 +5,7 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     address: 'Kotda, Jaipur, Rajasthan'
-    phone: '9950030375'
+    phone: 90013-30375
     email: chakrabiotechllp@gmail.com
     mapUrl: 'https://g.page/chakra-foods'
     type: contact_section
