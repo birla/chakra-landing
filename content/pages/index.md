@@ -57,7 +57,7 @@ sections:
           recruits.
 seo:
   title: Anqurit
-  description: The preview of the Planty theme
+  description: Anqurit Fresh Sprouts and Wheat Flour
   extra:
     - name: 'og:type'
       value: website
