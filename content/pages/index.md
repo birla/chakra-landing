@@ -56,7 +56,7 @@ sections:
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
 seo:
-  title: Planty Theme
+  title: Anqurit
   description: The preview of the Planty theme
   extra:
     - name: 'og:type'
