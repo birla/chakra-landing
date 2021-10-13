@@ -12,7 +12,7 @@ sections:
     image: images/new-header.png
   - section_id: lorem-ipsum
     questions:
-      - question: Do you have a FSSAI License
+      - question: Do you have a FSSAI License?
         answer: >-
           ## Lorem ipsum
 
