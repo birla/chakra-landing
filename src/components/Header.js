@@ -3,6 +3,7 @@ import _ from 'lodash';
 
 import {classNames, withPrefix, Link, toStyleObj} from '../utils';
 import Picture from './Picture';
+import Picture from './Picture';
 
 export default class Header extends React.Component {
     render() {
