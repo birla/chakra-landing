@@ -3,7 +3,7 @@ title: Contact Us
 page_css_class: lorem-ipsum
 white_header: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: contact
     address: "Durgapura, Jaipur,\_ RAJ"
     phone: +91-90013-30375
     email: chakrabiotechllp@gmail.com
