@@ -7,7 +7,7 @@ sections:
     address: 'Kotda, Jaipur, Rajasthan'
     phone: '9950030375'
     email: chakrabiotechllp@gmail.com
-    mapUrl: 'https://g.page/chakra-foods?share'
+    mapUrl: 'https://g.page/chakra-foods'
     type: contact_section
 seo:
   title: ''
