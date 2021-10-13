@@ -13,17 +13,8 @@ sections:
   - section_id: lorem-ipsum
     questions:
       - question: Do you have a FSSAI License?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: |
+          Yes, our FSSAI License No is \[Number Here]
     type: faq_section
 seo:
   title: ''
