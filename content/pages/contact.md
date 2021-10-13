@@ -16,17 +16,9 @@ sections:
         answer: |
           Yes, our FSSAI License No is \[Number Here]
       - question: Do you home deliver your products?
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: >
+          Not currently. We are still growing and will expand to better our
+          services and your experience.
     type: faq_section
 seo:
   title: ''
