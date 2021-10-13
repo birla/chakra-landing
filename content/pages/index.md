@@ -43,6 +43,10 @@ sections:
     title: lorem-ipsum
     featured_categories: []
     type: featured_categories_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    featured_categories: []
+    type: featured_categories_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
