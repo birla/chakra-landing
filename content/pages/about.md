@@ -37,14 +37,13 @@ sections:
           intestine.
       - title: Bottom Line?
         description: >
-          That simply means, more and easily available Nutirents resulting in
-          improved Immunity and better Health.
+          Our product, very subtly and simply means – more and easily available
+          Nutrients resulting in improved Immunity and better Health. 
 
-          Specially helpful for Weight control, Pesticide intolerance, Gluten
-          intolerance, Diabetes, Indigestion, Cholesterol conditions and
-          improving overall health.
 
-          \*In many ways, this make them better than Organic.
+          It will be especially helpful for Weight Control, Pesticide
+          Intolerance, Gluten Intolerance, Diabetes, Indigestion, Cholesterol
+          Conditions and improving overall Health.
   - type: promotion_section
     section_id: promotion_section
     title: Coming Soon for Online Deliveries.
