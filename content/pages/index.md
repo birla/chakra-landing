@@ -48,7 +48,7 @@ sections:
       - author:
           name: John Dope
           location: 'Colorado, USA'
-        text: "I didn't know I could upgrade my boring staple diet\_ guys were into herbs as well! How beautiful is that Planty theme. I'm going to launch a killer JAMstack e-commerce store using this for sure."
+        text: I didn't know I could bring life to my boring staple diet!
       - author:
           name: Major Payne
           location: 'VA, USA'
