@@ -21,7 +21,7 @@ sections:
           Gluten & Minerals chains become very simple so that the tiny sprout
           can easily consume them. That makes it very easily digestible by
           humans.
-      - title: lorem-ipsum
+      - title: Absorption
         description: >-
           ## Lorem ipsum
 
