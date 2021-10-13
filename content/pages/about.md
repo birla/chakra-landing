@@ -50,11 +50,6 @@ sections:
     title: Coming Soon for Online Deliveries.
     subtitle: Will you wait for us?
     background_image: /images/leaf.svg
-    cta:
-      title: Discover
-      url: /store
-      style: primary
-      arrow: true
   - section_id: lorem-ipsum
     background_image_opacity: 0
     content: >-
