@@ -47,7 +47,7 @@ sections:
     testimonials:
       - author:
           name: Aakriti Bakshi
-          location: 'Gurgaon, IND'
+          location: Gurgaon
         text: >-
           I didn't know I could bring life to my boring staple diet! Anqurit has
           upgraded my daily meals with more nutrition than ever before.
