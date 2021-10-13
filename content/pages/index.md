@@ -53,7 +53,9 @@ sections:
           upgraded my daily meals with more nutrition than ever before.
       - author:
           location: 'VA, USA'
-        text: skajadlks
+        text: >-
+          I have used Anqurit's Atta for the last 4 months and won't ever want
+          to shift.
 seo:
   title: Anqurit
   description: Anqurit Fresh Sprouts and Wheat Flour
