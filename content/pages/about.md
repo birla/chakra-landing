@@ -47,7 +47,7 @@ sections:
           \*In many ways, this make them better than Organic.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Coming Soon for Online Deliveries.
     subtitle: from $149.99
     background_image: /images/leaf.svg
     cta:
