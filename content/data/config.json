@@ -11,7 +11,7 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "About",
+            "title": "About Us",
             "url": "/about",
             "style": "link"
         },
