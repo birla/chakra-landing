@@ -9,7 +9,7 @@ sections:
     email: chakrabiotechllp@gmail.com
     mapUrl: 'https://g.page/chakra-foods'
     type: contact_section
-    image: images/plant5-lg.jpg
+    image: images/new-header.png
 seo:
   title: ''
   description: ''
