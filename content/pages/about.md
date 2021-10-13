@@ -16,17 +16,11 @@ sections:
           Healthy and Full grain. Clean. Washed away Pesticides. Dead Grain
           about to be a live Plant.
       - title: Easy to Digest
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: >
+          In the process of Sprouting, all complex Vitamins, Carbohydrates,
+          Gluten & Minerals chains become very simple so that the tiny sprout
+          can easily consume them. That makes it very easily digestible by
+          humans.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
