@@ -20,8 +20,8 @@ sections:
     bulletpoints:
       - title: Physical Reasons
         description: >
-          Healthy and Full grain. Clean. Washed away Pesticides. Dead Grain
-          about to be a live Plant.
+          Healthy and fully grained. Cleaned and washed to remove any
+          Pesticides.
       - title: Easy to Digest
         description: >
           In the process of Sprouting, all complex Vitamins, Carbohydrates,
