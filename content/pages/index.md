@@ -53,7 +53,6 @@ sections:
           upgraded my daily meals with more nutrition than ever before.
       - author:
           location: 'VA, USA'
-          name: A
         text: >-
           I have used Anqurit's Atta for the last 4 months and can safely say, I
           am never going to shift again.
