@@ -29,17 +29,15 @@ sections:
           Nutrients are now easily available to human body for absorption by
           intestine.
       - title: Bottom Line?
-        description: >-
-          ## Lorem ipsum
+        description: >
+          That simply means, more and easily available Nutirents resulting in
+          improved Immunity and better Health.
 
+          Specially helpful for Weight control, Pesticide intolerance, Gluten
+          intolerance, Diabetes, Indigestion, Cholesterol conditions and
+          improving overall health.
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          \*In many ways, this make them better than Organic.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
