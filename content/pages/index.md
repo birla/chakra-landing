@@ -54,8 +54,8 @@ sections:
       - author:
           location: 'VA, USA'
         text: >-
-          I have used Anqurit's Atta for the last 4 months and won't ever want
-          to shift.
+          I have used Anqurit's Atta for the last 4 months and can safely say, I
+          am never want to shift.
 seo:
   title: Anqurit
   description: Anqurit Fresh Sprouts and Wheat Flour
