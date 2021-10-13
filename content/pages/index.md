@@ -71,7 +71,10 @@ seo:
       value: Anqurit
       keyName: property
     - name: 'og:description'
-      value: Check out locally grown fresh sprouts and wheat flour
+      value: >-
+        Fresh Sprouts and Sprouted Wheat Flour in Jaipur, Rajasthan available at
+        your nearest grocery store! A new health dimension by eating sprouted
+        grains and beans.
       keyName: property
     - name: 'og:image'
       value: images/new-header.png
