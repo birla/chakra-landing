@@ -3,20 +3,6 @@ layout: home
 title: Home
 white_header: false
 sections:
-  - section_id: lorem-ipsum
-    headline: lorem-ipsum
-    subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: header_section
   - type: hero_section
     section_id: hero_section
     background_image: images/Sprouted-Beans-Seeds-57747.jpg
