@@ -25,8 +25,8 @@ sections:
       - title: Easy to Digest
         description: >
           In the process of Sprouting, all complex Vitamins, Carbohydrates,
-          Gluten & Minerals chains become very simple so that the tiny sprout
-          can easily consume them. That makes it very easily digestible by
+          Gluten & Mineral chains become non-compound and pure. Each tiny Sprout
+          can then easily consume them, making it very easily digestible for
           humans.
       - title: Absorption
         description: >
