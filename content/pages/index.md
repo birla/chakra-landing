@@ -74,7 +74,7 @@ seo:
       value: Check out locally grown fresh sprouts and wheat flour
       keyName: property
     - name: 'og:image'
-      value: images/header.jpg
+      value: images/new-header.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
