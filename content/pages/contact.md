@@ -5,7 +5,7 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     address: lorem-ipsum
-    phone: lorem-ipsum
+    phone: '99'
     email: chakrabiotechllp@gmail.com
     mapUrl: 'https://g.page/chakra-foods?share'
     type: contact_section
