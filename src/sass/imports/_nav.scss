@@ -1,4 +1,5 @@
 .nav {
+    @include container-properties;
   font-family: $font_family_primary;
   width: 100%;
   margin: 0 auto;
