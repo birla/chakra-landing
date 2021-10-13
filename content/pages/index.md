@@ -59,7 +59,10 @@ sections:
           am never going to shift again.
 seo:
   title: Anqurit
-  description: Anqurit Fresh Sprouts and Wheat Flour
+  description: >-
+    Fresh Sprouts and Sprouted Wheat Flour in Jaipur, Rajasthan available at
+    your nearest grocery store! A new health dimension by eating sprouted grains
+    and beans.
   extra:
     - name: 'og:type'
       value: website
