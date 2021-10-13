@@ -48,7 +48,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Coming Soon for Online Deliveries.
-    subtitle: from $149.99
+    subtitle: Will you wait for us?
     background_image: /images/leaf.svg
     cta:
       title: Discover
