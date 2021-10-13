@@ -30,10 +30,10 @@ sections:
           humans.
       - title: Absorption
         description: >
-          Phytic Acids inherently present in the barn of the Grain inhibits
+          Phytic Acids inherently present in the barn of the Grain inhibit the
           availability of Minerals and Vitamins by binding with them. The
-          process of Soaking and Sprouting breaks them down thus the said
-          Nutrients are now easily available to human body for absorption by
+          process of Soaking and Sprouting breaks them down, thus the said
+          Nutrients become easily available to human body for absorption by the
           intestine.
       - title: Bottom Line?
         description: >
