@@ -4,7 +4,7 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: contact
-    address: "Durgapura, Jaipur,\_ RAJ"
+    address: "Daulatpura, Jaipur,\_ RAJ"
     phone: +91-90013-30375
     email: chakrabiotechllp@gmail.com
     mapUrl: 'https://g.page/chakra-foods'
