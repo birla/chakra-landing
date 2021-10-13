@@ -52,7 +52,7 @@ sections:
           I didn't know I could bring life to my boring staple diet! Anqurit has
           upgraded my daily meals with more nutrition than ever before.
       - author:
-          location: 'VA, USA'
+          location: 'MUMBAI, IND'
           name: Neeraj Chauhan
         text: >-
           I have used Anqurit's Atta for the last 4 months and can safely say, I
