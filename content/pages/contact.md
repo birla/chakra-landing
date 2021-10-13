@@ -3,6 +3,13 @@ title: Contact Us
 page_css_class: lorem-ipsum
 white_header: false
 sections:
+  - section_id: contact
+    address: "Durgapura, Jaipur,\_ RAJ"
+    phone: +91-90013-30375
+    email: chakrabiotechllp@gmail.com
+    mapUrl: 'https://g.page/chakra-foods'
+    type: contact_section
+    image: images/new-header.png
   - section_id: faq
     questions:
       - question: Do you have a FSSAI License?
@@ -13,13 +20,6 @@ sections:
           Not currently. We are still growing and will expand to better our
           services and your experience.
     type: faq_section
-  - section_id: contact
-    address: "Durgapura, Jaipur,\_ RAJ"
-    phone: +91-90013-30375
-    email: chakrabiotechllp@gmail.com
-    mapUrl: 'https://g.page/chakra-foods'
-    type: contact_section
-    image: images/new-header.png
 seo:
   title: ''
   description: ''
