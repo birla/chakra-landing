@@ -28,7 +28,7 @@ sections:
           process of Soaking and Sprouting breaks them down thus the said
           Nutrients are now easily available to human body for absorption by
           intestine.
-      - title: lorem-ipsum
+      - title: Bottom Line?
         description: >-
           ## Lorem ipsum
 
