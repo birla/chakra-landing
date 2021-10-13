@@ -22,17 +22,12 @@ sections:
           can easily consume them. That makes it very easily digestible by
           humans.
       - title: Absorption
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        description: >
+          Phytic Acids inherently present in the barn of the Grain inhibits
+          availability of Minerals and Vitamins by binding with them. The
+          process of Soaking and Sprouting breaks them down thus the said
+          Nutrients are now easily available to human body for absorption by
+          intestine.
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
