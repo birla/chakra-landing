@@ -8,11 +8,11 @@ sections:
     background_image: images/new-header.png
     background_image_opacity: 65
     content: >
-      # Fresh, hygienically grown sprouts and wheat flour
+      # Fresh & Hygienically grown&#xA;Sprouts and Wheat Flour
 
 
-      Made in Jaipur, our freshly grown sprouts and flour made from select
-      sprouted wheat is now available for purchase.
+      Made in Jaipur, our freshly grown sprouts and flour are made from select
+      sprouted wheat that is now available for purchase.
     actions: []
   - section_id: lorem-ipsum
     title: lorem-ipsum
