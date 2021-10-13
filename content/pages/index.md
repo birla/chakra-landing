@@ -46,7 +46,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: Aakriti Behl
+          name: Aakriti Behl'
           location: 'Gurgaon, IND'
         text: >-
           I didn't know I could bring life to my boring staple diet! Anqurit has
