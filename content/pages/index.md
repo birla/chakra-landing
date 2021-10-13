@@ -17,7 +17,7 @@ sections:
       ##### Made in Jaipur, our freshly grown sprouts and flour are made from
       select sprouted wheat.
     actions:
-      - title: lorem-ipsum
+      - title: Coming Soon!
         url: '#'
         style: primary
         arrow: false
