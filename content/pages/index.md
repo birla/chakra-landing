@@ -48,7 +48,9 @@ sections:
       - author:
           name: Aakriti Birla
           location: 'Gurgaon, IND'
-        text: I didn't know I could bring life to my boring staple diet!
+        text: >-
+          I didn't know I could bring life to my boring staple diet! Anqurit has
+          upgraded my daily meals with more nutrition.
       - author:
           name: Major Payne
           location: 'VA, USA'
