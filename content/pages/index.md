@@ -30,21 +30,6 @@ sections:
     title: lorem-ipsum
     featured_categories: []
     type: featured_categories_section
-  - section_id: lorem-ipsum
-    background_image_opacity: 0
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: hero_section
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
