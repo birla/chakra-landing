@@ -9,7 +9,7 @@
     "palette": "green",
     "main_menu": [
         {
-            "title": "About Us",
+            "title": "About",
             "url": "/about",
             "style": "link"
         },
