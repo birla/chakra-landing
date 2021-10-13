@@ -14,7 +14,9 @@ export default class ContactSection extends React.Component {
                 <div className="contact__info-container">
                   <p className="contact__address">{_.get(section, 'address', null)}</p>
                   <p className="contact__telephone">
-                      <Link href={_.get(section, 'phone', null)}
+                      <Link href={"tel:" + _.get(section, 'phone', null)}>
+                          {_.get(section, 'phone', null)}
+                      </Link>
                   </p>
                   <p className="contact__email">
                       <Link href={"mailto:" + _.get(section, 'email', null)}>
