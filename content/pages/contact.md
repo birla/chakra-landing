@@ -15,7 +15,7 @@ sections:
       - question: Do you have a FSSAI License?
         answer: |
           Yes, our FSSAI License No is \[Number Here]
-      - question: lorem-ipsum
+      - question: Do you home deliver your products?
         answer: >-
           ## Lorem ipsum
 
