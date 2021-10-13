@@ -12,7 +12,7 @@ sections:
     image: images/new-header.png
   - section_id: lorem-ipsum
     questions:
-      - question: FSSAI Lice
+      - question: 'Do you have '
         answer: >-
           ## Lorem ipsum
 
