@@ -20,7 +20,7 @@ sections:
       - title: Coming Soon!
         url: '#'
         style: primary
-        arrow: true
+        arrow: false
   - section_id: lorem-ipsum
     title: lorem-ipsum
     featured_categories: []
