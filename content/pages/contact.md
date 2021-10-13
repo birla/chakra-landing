@@ -10,6 +10,9 @@ sections:
     mapUrl: 'https://g.page/chakra-foods'
     type: contact_section
     image: images/new-header.png
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
 seo:
   title: ''
   description: ''
