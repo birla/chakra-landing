@@ -5,7 +5,7 @@ white_header: false
 sections:
   - section_id: lorem-ipsum
     address: "Durgapura, Jaipur,\_ RAJ"
-    phone: 90013-30375
+    phone: +91-90013-30375
     email: chakrabiotechllp@gmail.com
     mapUrl: 'https://g.page/chakra-foods'
     type: contact_section
