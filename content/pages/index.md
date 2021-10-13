@@ -8,11 +8,11 @@ sections:
     background_image: images/Sprouted-Beans-Seeds-57747.jpg
     background_image_opacity: 65
     content: >
-      # Real, beautiful plants right to your door!
+      # Fresh, hygienically grown sprouts and wheat flour
 
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      Made in Jaipur, our freshly grown sprouts and flour made from select
+      sprouted wheat is now available for purchase.
     actions:
       - title: See all items
         url: /store
