@@ -14,6 +14,12 @@
             "title": "About",
             "url": "/about",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "#",
+            "style": "primary",
+            "arrow": false
         }
     ],
     "domain": "https://chakra-landing-6b49f.netlify.app"
