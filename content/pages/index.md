@@ -53,6 +53,7 @@ sections:
           upgraded my daily meals with more nutrition than ever before.
       - author:
           location: 'VA, USA'
+        text: skajadlks
 seo:
   title: Anqurit
   description: Anqurit Fresh Sprouts and Wheat Flour
