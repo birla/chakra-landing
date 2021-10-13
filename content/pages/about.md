@@ -7,11 +7,14 @@ sections:
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
     headline: We are Anqurit
-    subtitle: |+
+    subtitle: |
       We Sprout Everything.
 
       With **Anqurit** you can be sure of Quality and Hygiene.
 
+
+
+      But, why Sprouted, you ask?
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
