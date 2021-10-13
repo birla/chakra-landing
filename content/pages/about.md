@@ -15,7 +15,7 @@ sections:
         description: >
           Healthy and Full grain. Clean. Washed away Pesticides. Dead Grain
           about to be a live Plant.
-      - title: lorem-ipsum
+      - title: Easy to Digest
         description: >-
           ## Lorem ipsum
 
