@@ -38,10 +38,6 @@ sections:
     title: lorem-ipsum
     featured_categories: []
     type: featured_categories_section
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    featured_categories: []
-    type: featured_categories_section
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
