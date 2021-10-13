@@ -46,7 +46,7 @@ sections:
     title: Testimonials
     testimonials:
       - author:
-          name: John Dope
+          name: Aakriti Birla
           location: 'Colorado, USA'
         text: I didn't know I could bring life to my boring staple diet!
       - author:
