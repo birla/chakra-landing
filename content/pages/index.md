@@ -75,7 +75,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Planty Theme
+      value: Anqurit
     - name: 'twitter:description'
       value: Check out locally grown fresh sprouts and wheat flour
     - name: 'twitter:image'
