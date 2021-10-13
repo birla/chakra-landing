@@ -21,7 +21,6 @@ sections:
           too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
           any bugs, open an issue, and we’ll fire our junior dev. Just kidding
           Michael, you’re good.
-        image: images/nan_talk.jpg
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
