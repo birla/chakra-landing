@@ -3,7 +3,7 @@ title: Contact Us
 page_css_class: lorem-ipsum
 white_header: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: faq
     questions:
       - question: Do you have a FSSAI License?
         answer: |
