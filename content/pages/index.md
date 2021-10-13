@@ -11,7 +11,7 @@ sections:
       ### Fresh & Hygienically grown
 
 
-      # *Sprouts and Wheat Flour&#xA;*
+      # *Sprouts & Wheat Flour&#xA;*
 
 
       ##### Made in Jaipur, our freshly grown sprouts and flour are made from
