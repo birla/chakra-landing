@@ -7,7 +7,7 @@ sections:
     address: lorem-ipsum
     phone: lorem-ipsum
     email: lorem-ipsum
-    mapUrl: lorem-ipsum
+    mapUrl: 'https://g.page/chakra-foods?share'
     type: contact_section
 seo:
   title: ''
