@@ -15,7 +15,7 @@
         },
         {
             "title": "Contact Us",
-            "url": "#",
+            "url": "/contact",
             "style": "primary",
             "arrow": false
         }
