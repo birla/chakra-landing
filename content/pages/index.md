@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/Sprouted-Beans-Seeds-57747.jpg
+    background_image: images/new-header.png
     background_image_opacity: 65
     content: >
       # Fresh, hygienically grown sprouts and wheat flour
