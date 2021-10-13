@@ -19,7 +19,7 @@ sections:
     actions:
       - title: Coming Soon!
         url: '#'
-        style: link
+        style: primary
         arrow: false
   - section_id: lorem-ipsum
     title: lorem-ipsum
