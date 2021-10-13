@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: /images/leaf-light-grey.svg
-    headline: We are Anqurit.
+    headline: We are Anqurit
     subtitle: |
       We Sprout Everything.
 
