@@ -18,6 +18,10 @@ sections:
         url: /store
         arrow: true
         style: primary
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    featured_categories: []
+    type: featured_categories_section
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
@@ -35,10 +39,6 @@ sections:
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    featured_categories: []
-    type: featured_categories_section
 seo:
   title: Planty Theme
   description: The preview of the Planty theme
