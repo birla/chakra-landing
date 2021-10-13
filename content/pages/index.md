@@ -52,7 +52,6 @@ sections:
           I didn't know I could bring life to my boring staple diet! Anqurit has
           upgraded my daily meals with more nutrition than ever before.
       - author:
-          name: Major Payne
           location: 'VA, USA'
 seo:
   title: Anqurit
