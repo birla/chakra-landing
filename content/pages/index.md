@@ -47,7 +47,7 @@ sections:
     testimonials:
       - author:
           name: Aakriti Birla
-          location: 'Colorado, USA'
+          location: 'Gurgaon, H'
         text: I didn't know I could bring life to my boring staple diet!
       - author:
           name: Major Payne
