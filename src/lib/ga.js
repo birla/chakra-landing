@@ -2,7 +2,7 @@ import _ from 'lodash';
 
 // log the pageview with their URL
 export const pageview = (url) => {
-  window.gtag('config', (_.get(thisprops, 'data.config.google_analytics_key', null) || ''), {
+  window.gtag('config', (_.get(this.props, 'data.config.google_analytics_key', null) || ''), {
     page_path: url,
   })
 }
