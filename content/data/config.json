@@ -22,5 +22,5 @@
     ],
     "domain": "https://anqurit.com",
     "favicon": "images/android-chrome-256x256.png",
-    "PUBLIC_GOOGLE_ANALYTICS"
+    "public_"
 }
