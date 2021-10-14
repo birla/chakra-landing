@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 page_css_class: lorem-ipsum
-white_header: false
+white_header: true
 sections:
   - section_id: contact
     address: "Durgapura, Jaipur,\_ Rajasthan"
