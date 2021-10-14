@@ -50,7 +50,7 @@ models:
         name: snipcart_api_key
         required: true
       - type: string
-        label: Snipcart public API key
+        label: Google Analytics key
         name: google_analytics_key
         required: true
       - type: image
