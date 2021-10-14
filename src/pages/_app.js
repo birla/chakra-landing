@@ -19,7 +19,7 @@ function MyApp({ Component, pageProps }) {
             if (window.onNextjsRouteChangeStart) {
                 window.onNextjsRouteChangeStart();
             }
-            
+            ga.pageview(url)
         }
 
         const handleRouteChangeComplete = () => {
