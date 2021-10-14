@@ -1,4 +1,4 @@
-import getData from './';
+import getData from '../';
 
 // log the pageview with their URL
 export const pageview = (url) => {
