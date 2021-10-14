@@ -3,7 +3,7 @@
 
 // log the pageview with their URL
 export const pageview = (url) => {
-  window.gtag('config', , {
+  window.gtag('config', "123123", {
     page_path: url,
   })
 }
