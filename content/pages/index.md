@@ -8,14 +8,14 @@ sections:
     background_image: images/new-header.png
     background_image_opacity: 65
     content: >
-      ## Fresh & Hygienically grown
+      ## Fresh & Hygienic
 
 
       # *Sprouted Wheat Flour&#xA;*
 
 
-      ##### Made in Jaipur, our freshly grown produce is made from select
-      sprouted wheat.
+      ##### Our Chakki-fresh Aatta is made from clean & high quality Wheat,
+      which is then sprouted in our Hi-Tech Laboratory in Jaipur.
     actions:
       - title: Coming Soon!
         url: '#'
