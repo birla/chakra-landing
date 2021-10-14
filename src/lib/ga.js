@@ -1,4 +1,4 @@
-// import getData from '../../content/data/config';
+const pathPrefix = require('../../content/data/config.json').path_prefix;
 
 // log the pageview with their URL
 export const pageview = (url) => {
