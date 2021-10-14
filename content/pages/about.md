@@ -42,7 +42,7 @@ sections:
       - title: Bottom Line?
         description: >
           Our product, very subtly and simply means – more and easily available
-          Nutrients resulting in improved Immunity and better Health.
+          – Nutrients resulting in improved Immunity and better Health.
 
 
           It will be especially helpful in Weight Control, Pesticide
