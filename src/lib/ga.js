@@ -1,4 +1,4 @@
-const pathPrefix = require('../../content/data/config.json').path_prefix;
+const pathPrefix = require('../../content/data/config.json').google_analytics_key;
 
 // log the pageview with their URL
 export const pageview = (url) => {
