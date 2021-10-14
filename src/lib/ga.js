@@ -6,7 +6,7 @@ export const pageview = (url) => {
     window.gtag('config', gaKey, {
         page_path: url,
     })
- }
+  }
 }
 
 // log specific events happening.
