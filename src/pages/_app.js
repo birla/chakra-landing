@@ -2,7 +2,7 @@
 import { useEffect } from 'react';
 import Router from 'next/router';
 import '../sass/main.scss';
-import * as ga from '../lib/ga'
+import * as ga from '../lib/ga';
 
 function MyApp({ Component, pageProps }) {
 
