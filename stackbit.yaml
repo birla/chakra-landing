@@ -51,7 +51,7 @@ models:
         required: true
       - type: string
         label: Snipcart public API key
-        name: snipcart_api_key
+        name: google_analytics_key
         required: true
       - type: image
         name: favicon
