@@ -38,12 +38,12 @@ sections:
       - title: Bottom Line?
         description: >
           Our product, very subtly and simply means – more and easily available
-          Nutrients resulting in improved Immunity and better Health. 
+          Nutrients resulting in improved Immunity and better Health.
 
 
-          It will be especially helpful for Weight Control, Pesticide
-          Intolerance, Gluten Intolerance, Diabetes, Indigestion, Cholesterol
-          Conditions and improving overall Health.
+          It will be especially helpful in Weight Control, Pesticide
+          Intolerance, Gluten Intolerance, Indigestion, and improving overall
+          Health.
   - type: promotion_section
     section_id: promotion_section
     title: Coming Soon for Online Deliveries.
