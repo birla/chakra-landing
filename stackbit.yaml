@@ -49,6 +49,10 @@ models:
         label: Snipcart public API key
         name: snipcart_api_key
         required: true
+      - type: string
+        label: Snipcart public API key
+        name: snipcart_api_key
+        required: true
       - type: image
         name: favicon
         label: Favicon
