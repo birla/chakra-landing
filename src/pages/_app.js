@@ -19,6 +19,7 @@ function MyApp({ Component, pageProps }) {
             if (window.onNextjsRouteChangeStart) {
                 window.onNextjsRouteChangeStart();
             }
+            
         }
 
         const handleRouteChangeComplete = () => {
