@@ -29,9 +29,10 @@ sections:
       - title: Easy to Digest
         description: >
           In the process of Sprouting, all complex Vitamins, Carbohydrates,
-          Gluten & Mineral chains become non-compound and pure. Each tiny Sprout
-          can then easily consume them, making it very easily digestible for
-          humans.
+          Gluten & Mineral chains become non-complex and simple. Thus, a higher
+          nutritional value becomes available to each tiny Sprout, which can
+          then easily consume them, and making the produce very easily
+          digestible for humans.
       - title: Absorption
         description: >
           Phytic Acids inherently present in the barn of the Grain inhibit the
