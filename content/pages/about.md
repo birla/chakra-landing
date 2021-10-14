@@ -46,9 +46,10 @@ sections:
           Nutrients resulting in improved Immunity and better Health.
 
 
-          It will be especially helpful in Weight Control, Pesticide
-          Intolerance, Gluten Intolerance, Indigestion, and improving overall
-          Health.
+          In addition to improving overall Health, it will be especially helpful
+          for people aspiring to control Weight, or those suffering Pesticide
+          Intolerance, Gluten Intolerance, Indigestion or other similar health
+          conditions.
   - type: promotion_section
     section_id: promotion_section
     title: Coming Soon for Online Deliveries.
