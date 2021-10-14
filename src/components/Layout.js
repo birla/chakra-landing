@@ -50,7 +50,7 @@ export default class Body extends React.Component {
                         window.dataLayer = window.dataLayer || [];
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
-                        gtag('config', '${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}', {
+                        gtag('config', '${_.get(this.props, 'data.config.google_analytics_key', null) || ''}', {
                         page_path: window.location.pathname,
                         });
                     `,
