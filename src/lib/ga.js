@@ -1,4 +1,4 @@
-import _ from 'lodash';
+import getData from 'lodash';
 
 // log the pageview with their URL
 export const pageview = (url) => {
