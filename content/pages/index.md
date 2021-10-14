@@ -17,7 +17,7 @@ sections:
       ##### Our Chakki-fresh Aatta is made from clean & high quality Wheat,
       which is then sprouted in our Hi-Tech Laboratory in Jaipur.
     actions:
-      - title: Coming Soon!
+      - title: Deliveries Starting Soon!
         url: '#'
         style: primary
         arrow: false
