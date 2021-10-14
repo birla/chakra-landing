@@ -11,10 +11,7 @@ export const pageview = (url) => {
 
 // log specific events happening.
 export const event = ({ action, params }) => {
-//   window.gtag('event', action, params)
   if (window.gtag) {
-    window.gtag('config', gaKey, {
-        page_path: url,
-    })
+    window.gtag('event', action, params)
   }
 }
