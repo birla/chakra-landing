@@ -14,8 +14,8 @@ sections:
       #### With **Anqurit** you can be sure of Quality and Hygiene.
 
 
-      We serve everything from fresh Sprouts (Mung, Gram, Moth) to fresh Chakki
-      Flours (Sprouted Wheat Flour, Sprouted Multigrain Flour).
+      > We serve everything from fresh Sprouts (Mung, Gram, Moth) to fresh
+      Chakki Flours (Sprouted Wheat Flour, Sprouted Multigrain Flour).
 
 
       # But, why Sprouted, you ask?
