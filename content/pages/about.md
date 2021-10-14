@@ -8,10 +8,10 @@ sections:
     background_image: /images/leaf-light-grey.svg
     headline: We are Anqurit
     subtitle: >
-      ## We Sprout Everything.
+      # We Sprout Everything.
 
 
-      #### With **Anqurit** you can be sure of Quality and Hygiene.
+      ### With **Anqurit** you can be sure of Quality and Hygiene.
 
 
       #### *We serve everything from fresh Sprouts (Mung, Gram, Moth) to fresh
