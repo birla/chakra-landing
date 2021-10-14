@@ -18,7 +18,7 @@ sections:
       - question: Do you home deliver your products?
         answer: >
           Not currently. We are still growing and will expand to better our
-          services and your experience.
+          services and your experience very soon.
     type: faq_section
 seo:
   title: ''
