@@ -1,5 +1,5 @@
 // import getData from '../../content/data/config';
-const conf = require('../../content/data/config')
+const conf = require('../../content/data/config.json')
 
 // log the pageview with their URL
 export const pageview = (url) => {
