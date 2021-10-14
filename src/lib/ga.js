@@ -1,5 +1,5 @@
-import getData from '../../content/data/config';
-require()
+// import getData from '../../content/data/config';
+require('../../content/data/config')
 
 // log the pageview with their URL
 export const pageview = (url) => {
