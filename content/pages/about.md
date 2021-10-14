@@ -41,7 +41,7 @@ sections:
           intestine.
       - title: Bottom Line?
         description: >
-          Our product, very subtly and simply means – more and easily available
+          Our product, very subtly and simply means – more and easily accessible
           Nutrients resulting in improved Immunity and better Health.
 
 
