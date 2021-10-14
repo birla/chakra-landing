@@ -12,7 +12,7 @@ sections:
     image: images/new-header.png
   - section_id: faq
     questions:
-      - question: Do you have an FSSAI License?
+      - question: Do you have a FSSAI License?
         answer: |
           Yes, our FSSAI License No. is 12221026001860.
       - question: Do you home deliver your products?
