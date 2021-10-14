@@ -20,8 +20,8 @@ sections:
     bulletpoints:
       - title: Physical Reasons
         description: >
-          Healthy and fully grained. Cleaned and washed to remove any
-          Pesticides.
+          Healthy and full grains used. Cleaned and washed several times to
+          remove any Dirt and Pesticides.
       - title: Easy to Digest
         description: >
           In the process of Sprouting, all complex Vitamins, Carbohydrates,
