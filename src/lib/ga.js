@@ -6,6 +6,8 @@ export const pageview = (url) => {
     window.gtag('config', gaKey, {
         page_path: url,
     })
+  } else {
+    console.warn('no gtag found')
   }
 }
 
@@ -13,5 +15,7 @@ export const pageview = (url) => {
 export const event = ({ action, params }) => {
   if (window.gtag) {
     window.gtag('event', action, params)
+  } else {
+    console.warn('no gtag found')
   }
 }
